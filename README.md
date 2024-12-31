@@ -2,7 +2,7 @@
 
 Overview
 
-The goal of this project was to identify if there was an increase or decrease of fishing in the Northeast Atlantic Region
+The goal of this project was to identify whether there was an increase or decrease of fishing in the Northeast Atlantic Region
 
 Data Understanding
 
